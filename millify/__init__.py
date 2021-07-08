@@ -3,7 +3,7 @@ import re
 __author__ = "Alexander Zaitsev (azaitsev@gmail.com)"
 __copyright__ = "Copyright 2018, azaitsev@gmail.com"
 __license__ = "MIT"
-__version__ = "0.1.2+gwall1"
+__version__ = "0.1.2+gwall2"
 
 
 def millify(n, precision=0, drop_nulls=True, prefixes=[]):

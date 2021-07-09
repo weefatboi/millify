@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='millify',
     packages=['millify'],
-    version="0.1.2+gwall2",
+    version="0.1.2+gwall3",
     description='Convert long numbers into a human-readable format in Python',
     author="Alexander Zaitsev (azaitsev@gmail.com)",
     author_email='azaitsev@gmail.com',
